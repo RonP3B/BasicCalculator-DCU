@@ -70,9 +70,14 @@ namespace Calculadora
 
         private void btnMasMenos_Click(object sender, EventArgs e)
         {
-            double num = Convert.ToDouble(txtResultado.Text);
-            num *= -1;
-            txtResultado.Text = num.ToString();
+            string c = txtResultado.Text;
+            if (!c.Contains("√"))
+            {
+                double num = Convert.ToDouble(txtResultado.Text);
+                num *= -1;
+                txtResultado.Text = num.ToString();
+            }
+            
         }
 
         private void btnDec_Click(object sender, EventArgs e)
