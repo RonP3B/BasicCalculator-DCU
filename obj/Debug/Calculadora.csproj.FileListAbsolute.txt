@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\USER\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\USER\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\USER\source\repos\Calculadora\Calculadora\bin\Debug\Guna.UI2.dll
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\USER\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
